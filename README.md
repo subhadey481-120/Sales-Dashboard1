@@ -33,6 +33,8 @@ Data Source: E-commerce sales data (Excel/CSV dataset containing order details).
 💡 Key Insights from the Dashboard
 Clothing is King: More than 62% of the total quantities sold belong to the Clothing category, making it the primary volume driver.
 
+![Dashboard Preview]()
+
 Profitability Drivers: Even though clothing has the highest quantity share, specific sub-categories like Printers and Bookcases contribute heavily to the overall profit.
 
 Payment Trends: Traditional payment methods like COD still dominate nearly half of the market share, though digital modes (UPI & Cards) combine for a significant portion.
