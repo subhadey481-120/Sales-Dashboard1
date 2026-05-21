@@ -1,4 +1,5 @@
 E-commerce Sales Performance Dashboard
+
 📌 Project Overview
 This Power BI dashboard provides a comprehensive analysis of Subha Dey's Ecommerce Sales Report. It is designed to track, visualize, and analyze key performance indicators (KPIs) such as total sales amount, profit, quantity sold, and average order value (AOV). The interactive dynamic filters allow users to drill down into the data by specific quarters and states to uncover actionable business insights.
 
